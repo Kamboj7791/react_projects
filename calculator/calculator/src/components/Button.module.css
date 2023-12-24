@@ -1,0 +1,7 @@
+.btn{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  border: 1px solid gray;
+  border-radius: 3px;
+}
